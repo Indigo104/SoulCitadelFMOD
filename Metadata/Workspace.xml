@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{74026bef-26c3-4711-93c6-53d35e0f8fb8}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../GitHub/Machiavelli/Content/FMod</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{2f23fa58-26fc-4698-a1ce-f69bc1ff304a}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{58a8a9c0-cd9d-4ba1-8d1c-664eefb06945}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{659c48d0-cfd5-470d-affc-52d6218dc6f4}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{16491be5-45b2-42df-89c9-334035b5d0f3}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{8c099787-6f92-48c9-bd12-1fdb92f22ab8}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{7b900e87-5f49-4358-8875-1673c3258504}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{64a881c9-0721-4f98-a76d-2728acbc2529}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{203d7135-e0c1-4b96-bf6f-8a007de474a6}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{aefa3258-081d-4e17-8436-f30acdc9ec0e}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{d4ca136d-0c84-4a2c-82b8-851190fb391b}</destination>
+		</relationship>
+	</object>
+</objects>
