@@ -50,7 +50,7 @@
 			<destination>{3ae5d74a-79b6-4488-8a77-6f2bc34a43db}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{1f791cf0-0254-4c29-aa0d-76e22998db32}</destination>
+			<destination>{b7efa723-47fa-441b-bef7-f4e3b6c885b4}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{9dfd2886-7822-48bb-bce6-84783d8c7abe}" />
@@ -78,7 +78,6 @@
 		<property name="length">
 			<value>2</value>
 		</property>
-		<property name="name" />
 		<property name="polyphony">
 			<value>1</value>
 		</property>
