@@ -28,6 +28,9 @@
 		<relationship name="timeline">
 			<destination>{afcdd264-5cfe-4cd6-8790-18baf72b2258}</destination>
 		</relationship>
+		<relationship name="banks">
+			<destination>{06d52ba2-ad63-4bbe-b772-f49b5a2aeb89}</destination>
+		</relationship>
 	</object>
 	<object class="EventMixer" id="{f8aae858-81cc-4455-9db8-d6f582455ee6}">
 		<relationship name="masterBus">
@@ -135,13 +138,29 @@
 	<object class="MixerBusFader" id="{a2ba6ac0-5de4-4c55-97d3-4b01548e131d}" />
 	<object class="MixerBusFader" id="{f290322c-2bf8-49a8-866c-74ae7eddf75f}" />
 	<object class="EventSound" id="{3a4789fa-b90c-4e9a-a477-c5448253cef0}">
+		<relationship name="parameters">
+			<destination>{f09c86db-f9e4-4cf3-8e9a-24f95123d056}</destination>
+		</relationship>
 		<relationship name="event">
 			<destination>{ba22bf97-96f4-4458-ae81-83064a75d3ef}</destination>
 		</relationship>
 	</object>
 	<object class="EventSound" id="{36e275f8-ce76-4dcc-bb0d-ab794ce71287}">
+		<relationship name="parameters">
+			<destination>{d7dd9405-6416-4ca6-b2fc-04bf193818de}</destination>
+		</relationship>
 		<relationship name="event">
 			<destination>{8ab7093b-04ef-414c-87fa-fc931ebe545a}</destination>
+		</relationship>
+	</object>
+	<object class="ParameterProperty" id="{f09c86db-f9e4-4cf3-8e9a-24f95123d056}">
+		<relationship name="parameter">
+			<destination>{62d23813-c136-4552-b300-c94a0480df5c}</destination>
+		</relationship>
+	</object>
+	<object class="ParameterProperty" id="{d7dd9405-6416-4ca6-b2fc-04bf193818de}">
+		<relationship name="parameter">
+			<destination>{783fd1e5-82e8-47b7-9726-71164259c64c}</destination>
 		</relationship>
 	</object>
 </objects>
