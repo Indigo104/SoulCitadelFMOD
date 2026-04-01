@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{af40cc1d-e069-4b9f-9adb-56d72da2fb5f}">
+		<property name="assetPath">
+			<value>Inbetween.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>28.800000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{64a881c9-0721-4f98-a76d-2728acbc2529}</destination>
+		</relationship>
+	</object>
+</objects>
