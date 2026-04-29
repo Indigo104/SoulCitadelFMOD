@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{24b37562-5809-468b-aef1-92da5e4e9adb}">
+		<property name="assetPath">
+			<value>locustswarm.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>79.789249999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{64a881c9-0721-4f98-a76d-2728acbc2529}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ac957967-23e9-490a-ad62-8203852fa03e}">
+		<property name="assetPath">
+			<value>intro_featherland_reverse.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>11.721708333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{64a881c9-0721-4f98-a76d-2728acbc2529}</destination>
+		</relationship>
+	</object>
+</objects>

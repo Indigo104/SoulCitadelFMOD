@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{bbbfc4eb-037e-49b0-9b19-c17c90223bc2}">
+		<property name="assetPath">
+			<value>intro_eyesopen.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>15.429291666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{64a881c9-0721-4f98-a76d-2728acbc2529}</destination>
+		</relationship>
+	</object>
+</objects>
